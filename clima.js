@@ -1,4 +1,4 @@
-const chaveAPI = "42e4cbf920f6ff965d06fe2b0085f414";
+const chaveAPI = "SUA_CHAVE_API";
 const buscar = document.getElementById("buscar");
 const resultado = document.getElementById("resultado");
 
